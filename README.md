@@ -1,3 +1,3 @@
-# Test-Web
+# DisBot Web
 
-Esta es una web
+Esta es la Web oficial del bot DisBot.
